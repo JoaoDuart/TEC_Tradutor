@@ -20,10 +20,15 @@ seja compatível com o simulador Morphett;
 mantenha a mesma linguagem reconhecida da máquina original.
 
 🧩 Estrutura do Repositório
+
 ├── tradutor_mt_final.py   # Código-fonte principal do tradutor
+
 ├── codigo.in              # Exemplo de entrada (pode ser alterado)
+
 ├── codigo.out             # Arquivo de saída gerado automaticamente
+
 ├── README.md              # Este arquivo
+
 
 ⚙️ Requisitos
 
