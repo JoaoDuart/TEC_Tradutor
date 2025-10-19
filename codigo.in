@@ -1,0 +1,13 @@
+;I
+;Máquina de fita duplamente infinita que aceita cadeias terminadas em 11
+;Aceita se os dois últimos símbolos antes do branco forem 11
+
+0 0 0 R 0
+0 1 1 R 0
+0 _ _ L 1
+1 1 1 L 2
+1 0 0 * halt_reject
+1 _ _ * halt_reject
+2 1 1 * halt_accept
+2 0 0 * halt_reject
+2 _ _ * halt_reject
