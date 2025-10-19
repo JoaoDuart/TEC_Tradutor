@@ -64,7 +64,7 @@ halt_reject → a entrada foi rejeitada ❌
 
 ## 🧪 Exemplos de teste
 
-- 11	✅ halt_accept
+- 011	✅ halt_accept
 - 1011	✅ halt_accept
 - 111	✅ halt_accept
 - 10	❌ halt_reject
